@@ -1,0 +1,20 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:paddingTop="30dp"
+    android:background="#9d8e7e"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="121dp"
+        android:background="#ff6621"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:text="Percobaan Fragment Modul 4 Ridho Pujiono"
+        />
+
+
+</LinearLayout>
